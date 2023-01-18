@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971511169859",
+    "project_id": "organizami-7cabd",
+    "storage_bucket": "organizami-7cabd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971511169859:android:9eeb0f8d61eb9ea0f465f6",
+        "android_client_info": {
+          "package_name": "com.example.organiza_mi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971511169859-0cs1mf3otnakr78vr91sv0pvf7jqebkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwV2NnsOKnlym9usMzyNqFduiY8IckSlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971511169859-0cs1mf3otnakr78vr91sv0pvf7jqebkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

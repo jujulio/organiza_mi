@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971511169859-ao35fsd3ejm2j8gfpbkgs9h0jplsgrf2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971511169859-ao35fsd3ejm2j8gfpbkgs9h0jplsgrf2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAhT7Xwn27Khtnkk9Zx6P4AOf98BZ_Cgc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971511169859</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.organizaMi</string>
+	<key>PROJECT_ID</key>
+	<string>organizami-7cabd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>organizami-7cabd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971511169859:ios:986295bcf4f02abaf465f6</string>
+</dict>
+</plist>
